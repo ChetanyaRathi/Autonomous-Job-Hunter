@@ -1,0 +1,38 @@
+# Environment variables & secrets
+.env
+.env.*
+
+# Database
+jobs.db
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.egg-info/
+dist/
+build/
+*.egg
+
+# Virtual environment
+venv/
+.venv/
+env/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# macOS
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+cron.log
+
+# Gemini agent
+.gemini/
